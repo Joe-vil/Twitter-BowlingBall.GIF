@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="balls.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ball down ref0001.png" x="1149" y="2317" width="396" height="461"/>
+	<SubTexture name="ball down ref0002.png" x="1149" y="1389" width="396" height="461"/>
+	<SubTexture name="ball down ref0003.png" x="1149" y="1389" width="396" height="461"/>
+	<SubTexture name="ball down ref0004.png" x="1149" y="1853" width="396" height="461"/>
+	<SubTexture name="ball down ref0005.png" x="1149" y="1853" width="396" height="461"/>
+	<SubTexture name="ball down ref0006.png" x="1149" y="1853" width="396" height="461"/>
+	<SubTexture name="ball down ref0007.png" x="1149" y="1853" width="396" height="461"/>
+	<SubTexture name="ball down ref0008.png" x="1149" y="1853" width="396" height="461"/>
+	<SubTexture name="ball idle ref0001.png" x="1595" y="3250" width="389" height="466"/>
+	<SubTexture name="ball idle ref0002.png" x="1595" y="3250" width="389" height="466"/>
+	<SubTexture name="ball idle ref0003.png" x="1203" y="3250" width="389" height="466"/>
+	<SubTexture name="ball idle ref0004.png" x="1203" y="3250" width="389" height="466"/>
+	<SubTexture name="ball idle ref0005.png" x="1541" y="2781" width="389" height="466"/>
+	<SubTexture name="ball idle ref0006.png" x="1541" y="2781" width="389" height="466"/>
+	<SubTexture name="ball idle ref0007.png" x="1149" y="2781" width="389" height="466"/>
+	<SubTexture name="ball idle ref0008.png" x="1149" y="2781" width="389" height="466"/>
+	<SubTexture name="ball idle ref0009.png" x="1548" y="1389" width="389" height="466"/>
+	<SubTexture name="ball idle ref0010.png" x="1548" y="1389" width="389" height="466"/>
+	<SubTexture name="ball idle ref0011.png" x="1548" y="1389" width="389" height="466"/>
+	<SubTexture name="ball idle ref0012.png" x="1548" y="1389" width="389" height="466"/>
+	<SubTexture name="ball idle ref0013.png" x="1548" y="1389" width="389" height="466"/>
+	<SubTexture name="ball idle ref0014.png" x="1548" y="1389" width="389" height="466"/>
+	<SubTexture name="ball left ref0001.png" x="1149" y="927" width="441" height="459"/>
+	<SubTexture name="ball left ref0002.png" x="1149" y="465" width="441" height="459"/>
+	<SubTexture name="ball left ref0003.png" x="1149" y="465" width="441" height="459"/>
+	<SubTexture name="ball left ref0004.png" x="1149" y="3" width="441" height="459"/>
+	<SubTexture name="ball left ref0005.png" x="1149" y="3" width="441" height="459"/>
+	<SubTexture name="ball left ref0006.png" x="1149" y="3" width="441" height="459"/>
+	<SubTexture name="ball left ref0007.png" x="1149" y="3" width="441" height="459"/>
+	<SubTexture name="ball left ref0008.png" x="1149" y="3" width="441" height="459"/>
+	<SubTexture name="ball right ref0001.png" x="1593" y="486" width="344" height="480"/>
+	<SubTexture name="ball right ref0002.png" x="1548" y="1858" width="344" height="480"/>
+	<SubTexture name="ball right ref0003.png" x="1548" y="1858" width="344" height="480"/>
+	<SubTexture name="ball right ref0004.png" x="1593" y="3" width="344" height="480"/>
+	<SubTexture name="ball right ref0005.png" x="1593" y="3" width="344" height="480"/>
+	<SubTexture name="ball right ref0006.png" x="1593" y="3" width="344" height="480"/>
+	<SubTexture name="ball right ref0007.png" x="1593" y="3" width="344" height="480"/>
+	<SubTexture name="ball right ref0008.png" x="1593" y="3" width="344" height="480"/>
+	<SubTexture name="ball roll in ref0001.png" x="767" y="2235" width="379" height="1113"/>
+	<SubTexture name="ball roll in ref0002.png" x="767" y="2235" width="379" height="1113"/>
+	<SubTexture name="ball roll in ref0003.png" x="767" y="1119" width="379" height="1113"/>
+	<SubTexture name="ball roll in ref0004.png" x="767" y="1119" width="379" height="1113"/>
+	<SubTexture name="ball roll in ref0005.png" x="3" y="3" width="379" height="1113"/>
+	<SubTexture name="ball roll in ref0006.png" x="3" y="3" width="379" height="1113"/>
+	<SubTexture name="ball roll in ref0007.png" x="767" y="3" width="379" height="1113"/>
+	<SubTexture name="ball roll in ref0008.png" x="767" y="3" width="379" height="1113"/>
+	<SubTexture name="ball roll in ref0009.png" x="3" y="2235" width="379" height="1113"/>
+	<SubTexture name="ball roll in ref0010.png" x="3" y="2235" width="379" height="1113"/>
+	<SubTexture name="ball roll in ref0011.png" x="385" y="2235" width="379" height="1113"/>
+	<SubTexture name="ball roll in ref0012.png" x="385" y="2235" width="379" height="1113"/>
+	<SubTexture name="ball roll in ref0013.png" x="3" y="1119" width="379" height="1113"/>
+	<SubTexture name="ball roll in ref0014.png" x="3" y="1119" width="379" height="1113"/>
+	<SubTexture name="ball roll in ref0015.png" x="385" y="1119" width="379" height="1113"/>
+	<SubTexture name="ball roll in ref0016.png" x="385" y="1119" width="379" height="1113"/>
+	<SubTexture name="ball roll in ref0017.png" x="385" y="3" width="379" height="1113"/>
+	<SubTexture name="ball roll in ref0018.png" x="385" y="3" width="379" height="1113"/>
+	<SubTexture name="ball up ref0001.png" x="803" y="3351" width="397" height="640"/>
+	<SubTexture name="ball up ref0002.png" x="403" y="3351" width="397" height="640"/>
+	<SubTexture name="ball up ref0003.png" x="403" y="3351" width="397" height="640"/>
+	<SubTexture name="ball up ref0004.png" x="3" y="3351" width="397" height="640"/>
+	<SubTexture name="ball up ref0005.png" x="3" y="3351" width="397" height="640"/>
+	<SubTexture name="ball up ref0006.png" x="3" y="3351" width="397" height="640"/>
+	<SubTexture name="ball up ref0007.png" x="3" y="3351" width="397" height="640"/>
+	<SubTexture name="ball up ref0008.png" x="3" y="3351" width="397" height="640"/>
+</TextureAtlas>

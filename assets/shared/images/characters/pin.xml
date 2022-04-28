@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pin.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pen idle ref0001.png" x="1366" y="3" width="247" height="1174"/>
+	<SubTexture name="pen idle ref0002.png" x="1366" y="3" width="247" height="1174"/>
+	<SubTexture name="pen idle ref0003.png" x="1116" y="2357" width="247" height="1174"/>
+	<SubTexture name="pen idle ref0004.png" x="1116" y="2357" width="247" height="1174"/>
+	<SubTexture name="pen idle ref0005.png" x="1116" y="1180" width="247" height="1174"/>
+	<SubTexture name="pen idle ref0006.png" x="1116" y="1180" width="247" height="1174"/>
+	<SubTexture name="pen idle ref0007.png" x="1366" y="1180" width="247" height="1174"/>
+	<SubTexture name="pen idle ref0008.png" x="1366" y="1180" width="247" height="1174"/>
+	<SubTexture name="pen idle ref0009.png" x="1116" y="3" width="247" height="1174"/>
+	<SubTexture name="pen idle ref0010.png" x="1116" y="3" width="247" height="1174"/>
+	<SubTexture name="pen idle ref0011.png" x="1116" y="3" width="247" height="1174"/>
+	<SubTexture name="pen idle ref0012.png" x="1116" y="3" width="247" height="1174"/>
+	<SubTexture name="pen idle ref0013.png" x="1116" y="3" width="247" height="1174"/>
+	<SubTexture name="pen idle ref0014.png" x="1116" y="3" width="247" height="1174"/>
+	<SubTexture name="pin down ref0001.png" x="855" y="1171" width="258" height="1165"/>
+	<SubTexture name="pin down ref0002.png" x="855" y="2339" width="258" height="1165"/>
+	<SubTexture name="pin down ref0003.png" x="855" y="2339" width="258" height="1165"/>
+	<SubTexture name="pin down ref0004.png" x="855" y="3" width="258" height="1165"/>
+	<SubTexture name="pin down ref0005.png" x="855" y="3" width="258" height="1165"/>
+	<SubTexture name="pin down ref0006.png" x="855" y="3" width="258" height="1165"/>
+	<SubTexture name="pin down ref0007.png" x="855" y="3" width="258" height="1165"/>
+	<SubTexture name="pin down ref0008.png" x="855" y="3" width="258" height="1165"/>
+	<SubTexture name="pin left ref0001.png" x="3" y="1178" width="317" height="1172"/>
+	<SubTexture name="pin left ref0002.png" x="3" y="3" width="317" height="1172"/>
+	<SubTexture name="pin left ref0003.png" x="3" y="3" width="317" height="1172"/>
+	<SubTexture name="pin left ref0004.png" x="3" y="2353" width="317" height="1172"/>
+	<SubTexture name="pin left ref0005.png" x="3" y="2353" width="317" height="1172"/>
+	<SubTexture name="pin left ref0006.png" x="3" y="2353" width="317" height="1172"/>
+	<SubTexture name="pin left ref0007.png" x="3" y="2353" width="317" height="1172"/>
+	<SubTexture name="pin left ref0008.png" x="3" y="2353" width="317" height="1172"/>
+	<SubTexture name="pin right ref0001.png" x="323" y="2371" width="287" height="1181"/>
+	<SubTexture name="pin right ref0002.png" x="323" y="1187" width="287" height="1181"/>
+	<SubTexture name="pin right ref0003.png" x="323" y="1187" width="287" height="1181"/>
+	<SubTexture name="pin right ref0004.png" x="323" y="3" width="287" height="1181"/>
+	<SubTexture name="pin right ref0005.png" x="323" y="3" width="287" height="1181"/>
+	<SubTexture name="pin right ref0006.png" x="323" y="3" width="287" height="1181"/>
+	<SubTexture name="pin right ref0007.png" x="323" y="3" width="287" height="1181"/>
+	<SubTexture name="pin right ref0008.png" x="323" y="3" width="287" height="1181"/>
+	<SubTexture name="pin up ref0001.png" x="613" y="2541" width="239" height="1266"/>
+	<SubTexture name="pin up ref0002.png" x="613" y="1272" width="239" height="1266"/>
+	<SubTexture name="pin up ref0003.png" x="613" y="1272" width="239" height="1266"/>
+	<SubTexture name="pin up ref0004.png" x="613" y="3" width="239" height="1266"/>
+	<SubTexture name="pin up ref0005.png" x="613" y="3" width="239" height="1266"/>
+	<SubTexture name="pin up ref0006.png" x="613" y="3" width="239" height="1266"/>
+	<SubTexture name="pin up ref0007.png" x="613" y="3" width="239" height="1266"/>
+	<SubTexture name="pin up ref0008.png" x="613" y="3" width="239" height="1266"/>
+</TextureAtlas>

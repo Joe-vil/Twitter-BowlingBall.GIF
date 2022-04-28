@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="high_strike.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="high_strike basic0000" x="3" y="309" width="598" height="130"/>
+	<SubTexture name="high_strike basic0001" x="3" y="442" width="598" height="129" frameX="0" frameY="-1" frameWidth="598" frameHeight="130"/>
+	<SubTexture name="high_strike white0000" x="3" y="3" width="693" height="150"/>
+	<SubTexture name="high_strike white0001" x="3" y="156" width="693" height="150"/>
+</TextureAtlas>

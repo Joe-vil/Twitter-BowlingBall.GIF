@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rating.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="3" y="3" width="192" height="175"/>
+	<SubTexture name="one0000" x="3" y="715" width="192" height="175"/>
+	<SubTexture name="two0000" x="3" y="537" width="192" height="175"/>
+	<SubTexture name="three0000" x="198" y="715" width="192" height="175"/>
+	<SubTexture name="four0000" x="198" y="359" width="192" height="175"/>
+	<SubTexture name="five0000" x="198" y="537" width="192" height="175"/>
+	<SubTexture name="six0000" x="198" y="3" width="192" height="175"/>
+	<SubTexture name="seven0000" x="198" y="181" width="192" height="175"/>
+	<SubTexture name="eight0000" x="3" y="181" width="192" height="175"/>
+	<SubTexture name="nine0000" x="3" y="359" width="192" height="175"/>
+</TextureAtlas>

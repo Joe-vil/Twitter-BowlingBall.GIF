@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ball idle ref",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ball left ref",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ball down ref",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				87
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ball up ref",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ball right ref",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				476
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "balls intro",
+			"loop": false,
+			"name": "ball roll in ref"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/balls",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-260,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

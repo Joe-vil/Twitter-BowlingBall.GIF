@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				75,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "pin left ref"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "pin down ref"
+		},
+		{
+			"offsets": [
+				-6,
+				55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "pin up ref"
+		},
+		{
+			"offsets": [
+				-8,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "pin right ref"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "pen idle ref"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pin",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-125,
+		-260
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

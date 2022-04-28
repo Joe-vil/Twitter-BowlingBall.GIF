@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="balls-erect.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="100" y="3" width="94" height="91"/>
+	<SubTexture name="one0000" x="3" y="97" width="94" height="91"/>
+	<SubTexture name="two0000" x="3" y="3" width="94" height="91"/>
+</TextureAtlas>
